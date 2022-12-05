@@ -1,6 +1,6 @@
 @font-face {
     font-family: ubuntu;
-    src: url(ubuntufont.ttf);
+    src: url(EBGaramond-Regular.ttf);
 }
 body {
     font-family: ubuntu;
@@ -223,7 +223,7 @@ button {
 @media only screen and (max-width: 600px) {
     @font-face {
         font-family: ubuntu;
-        src: url(ubuntufont.ttf);
+        src: url(EBGaramond-Regular.ttf);
     }
     .hometitle {
         font-size:2vw;
